@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Snapstudio</title>
+    <item>
+      <title>Snapstudio 1.0</title>
+      <pubDate>Fri, 30 Oct 2026 17:49:25 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First release: screenshots with annotation, scrolling capture, GIF recording with smooth cursor, and screen recording with an editor for zooms, cursor and backgrounds.</p>]]></description>
+      <enclosure url="https://github.com/brilliantworkarounds/snapstudio-releases/releases/download/v1.0/Snapstudio-1.0.zip" type="application/octet-stream" sparkle:edSignature="AL/Sw3VEQATtWO0mgOPQpRssM9qBfkgsVtNmEBWmHsnqBGHK+M00bcB1jOpMzh90SmDGyeBRKcTDwIKKqlSXBA==" length="3712998" />
+    </item>
   </channel>
 </rss>
