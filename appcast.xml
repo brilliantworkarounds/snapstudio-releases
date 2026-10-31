@@ -3,6 +3,15 @@
   <channel>
     <title>Snapstudio</title>
     <item>
+      <title>Snapstudio 1.1</title>
+      <pubDate>Sat, 31 Oct 2026 20:23:39 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New editing tools: a waveform on the timeline, clip speed, freeze frames, text and callouts, fades, chapters, click sounds, silence cutting, Zoom on Speech, snapping and reordering, and per-zoom zoom in and out. GIF export can play forward then backward.</p>]]></description>
+      <enclosure url="https://github.com/brilliantworkarounds/snapstudio-releases/releases/download/v1.1/Snapstudio-1.1.zip" type="application/octet-stream" sparkle:edSignature="K5MPyDEwA98cdQzL6hQFk6OISynIwFr3rASNNljsvHO+agizk3cF0fei/CW8TF63Wiwm/OPlBMD1cVvdo9/pDA==" length="4025201" />
+    </item>
+    <item>
       <title>Snapstudio 1.0</title>
       <pubDate>Fri, 30 Oct 2026 17:49:25 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
