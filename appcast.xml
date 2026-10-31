@@ -3,6 +3,15 @@
   <channel>
     <title>Snapstudio</title>
     <item>
+      <title>Snapstudio 1.2</title>
+      <pubDate>Sat, 31 Oct 2026 20:50:00 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A resizable timeline, text and callouts you can move and resize right on the preview, corner roundness for boxes, each callout kind remembering its last look, and a folder chooser in the export window.</p>]]></description>
+      <enclosure url="https://github.com/brilliantworkarounds/snapstudio-releases/releases/download/v1.2/Snapstudio-1.2.zip" type="application/octet-stream" sparkle:edSignature="Ch3n6yHMyLxskQ9KySl/1veYzXp2gM2hQI0S9vyJx6v9VTwsNQgOOXOvuDT2NR4DnawgXlfPxfuCzr1jCaKtCQ==" length="4080864" />
+    </item>
+    <item>
       <title>Snapstudio 1.1</title>
       <pubDate>Sat, 31 Oct 2026 20:23:39 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
