@@ -3,6 +3,15 @@
   <channel>
     <title>Snapstudio</title>
     <item>
+      <title>Snapstudio 1.4</title>
+      <pubDate>Tue, 10 Nov 2026 19:27:33 +0000</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Adds a Snapstudio Guide. Open it from Help &gt; Snapstudio Guide (⌘?) or Guide… in the menu bar menu. It covers recording, editing, zooms, sound, captions, exporting, screenshots, annotating, GIFs and keyboard shortcuts, with labeled pictures of the recording bar and the editor.</p>]]></description>
+      <enclosure url="https://github.com/brilliantworkarounds/snapstudio-releases/releases/download/v1.4/Snapstudio-1.4.zip" type="application/octet-stream" sparkle:edSignature="IIaA0dxAPcO8oCjSjIEe7levJIHBacSk6amxVkvMiWNpyQX7SV+Zig4vuosebudi6jQioXpXXsTbkGqeKijSAQ==" length="6799478" />
+    </item>
+    <item>
       <title>Snapstudio 1.3</title>
       <pubDate>Tue, 10 Nov 2026 19:08:57 +0000</pubDate>
       <sparkle:version>81</sparkle:version>
