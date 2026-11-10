@@ -3,6 +3,15 @@
   <channel>
     <title>Snapstudio</title>
     <item>
+      <title>Snapstudio 1.3</title>
+      <pubDate>Tue, 10 Nov 2026 19:08:57 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A redesigned editor with a tool rail, named lanes, and light and dark colors that follow macOS. Recording: pause and resume, recordings that survive a crash, a face camera with layouts that change during the video, 24-bit lossless audio, background noise removal, a live microphone meter, and areas locked to a shape. Editing: captions and transcript editing, on-screen key presses, blur and image overlays, motion blur on zooms, sharper zoomed-in text with on-device AI sharpening, and sound polish with a voice compressor, limiter, noise gate, loudness matching and gain up to +40 dB. Exporting: runs in the background with presets and a file size limit, HEVC exports 1.5x faster, and colors are truer with less banding. Also a project library, screenshot extras and many fixes.</p>]]></description>
+      <enclosure url="https://github.com/brilliantworkarounds/snapstudio-releases/releases/download/v1.3/Snapstudio-1.3.zip" type="application/octet-stream" sparkle:edSignature="ZJ0SS8V7D5Dz7Dh+woacO6zdKC3SSUJQ7Ac8NIvwaTGKGh0+VAMGX9Oa9eyPQUoxsonJWHDg8Ls/xkyvWTUGBg==" length="6461802" />
+    </item>
+    <item>
       <title>Snapstudio 1.2</title>
       <pubDate>Sat, 31 Oct 2026 20:50:00 +0000</pubDate>
       <sparkle:version>18</sparkle:version>
