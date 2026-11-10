@@ -3,6 +3,15 @@
   <channel>
     <title>Snapstudio</title>
     <item>
+      <title>Snapstudio 1.5</title>
+      <pubDate>Tue, 10 Nov 2026 19:34:55 +0000</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes the guide&#x27;s left-hand menu, which kept highlighting the first topic you clicked instead of the one you&#x27;re reading.</p>]]></description>
+      <enclosure url="https://github.com/brilliantworkarounds/snapstudio-releases/releases/download/v1.5/Snapstudio-1.5.zip" type="application/octet-stream" sparkle:edSignature="JY4PYt4rBMpkB4YeMSVs8At42aEZbs40f+bv88XaQaQ19s1NOGq60TTl07b5JnRpTkftaT3Pmqf5WS+TNawiDA==" length="6800285" />
+    </item>
+    <item>
       <title>Snapstudio 1.4</title>
       <pubDate>Tue, 10 Nov 2026 19:27:33 +0000</pubDate>
       <sparkle:version>83</sparkle:version>
